@@ -1,0 +1,7 @@
+You need to have Python for the script to work!
+https://www.python.org/downloads/
+
+1) Execute "setup.bat" (you only do it one time, just for dependencies to install)
+2) Execute "start.bat"
+
+That's all :P
